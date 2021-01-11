@@ -1,4 +1,4 @@
 Project1
 ========
 
-First Test Project
+This is my first test project.
